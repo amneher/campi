@@ -1,0 +1,1 @@
+from campi.settings import *
